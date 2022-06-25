@@ -46,6 +46,7 @@ disablePathToLower = false
 relativeURLs = false
 uglyURLs = false
 
+# Public content directory
 publishDir = "docs"
 
 # URL structure

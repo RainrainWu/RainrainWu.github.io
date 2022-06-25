@@ -98,17 +98,15 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "Rain Wu"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "s0958334772@gmail.com"
     # Motto or introduction
-    motto = "Viva La Vida"
+    motto = "A software engineer who complains all day long."
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
-    # Twitter
-    twitter = "reuixiy"
+    website = "https://github.com/RainrainWu/"
 
 # Related content
 [related]

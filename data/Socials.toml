@@ -1,0 +1,27 @@
+[[socials]]
+    id = "email"
+    url = "mailto:s0958334772@gmail.com"
+    icon = "envelope"
+    title = "Email"
+    weight = 2
+
+[[socials]]
+    id = "linkedin"
+    url = "https://tw.linkedin.com/in/rain0114"
+    icon = "linkedin"
+    title = "Linkedin"
+    weight = 2
+
+[[socials]]
+    id = "github"
+    url = "https://github.com/RainrainWu"
+    icon = "github"
+    title = "GitHub"
+    weight = 3
+
+[[socials]]
+    id = "telegram"
+    url = "https://t.me/RainrainWu"
+    icon = "telegram"
+    title = "Telegram"
+    weight = 5

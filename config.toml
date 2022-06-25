@@ -46,6 +46,8 @@ disablePathToLower = false
 relativeURLs = false
 uglyURLs = false
 
+publishDir = "docs"
+
 # URL structure
 [permalinks]
     categories = "/categories/:slug/"

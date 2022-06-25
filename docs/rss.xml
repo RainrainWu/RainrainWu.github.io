@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Rain&#39;s Blog</title>
+        <link>https://rainrainwu.github.io/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.101.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>s0958334772@gmail.com (Rain Wu)</managingEditor>
+        
+        
+            <webMaster>s0958334772@gmail.com (Rain Wu)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Sat, 25 Jun 2022 22:29:51 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Initial Post</title>
+                <link>https://rainrainwu.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://rainrainwu.github.io/posts/hello-world/</guid>
+                <pubDate>Sat, 25 Jun 2022 21:47:54 &#43;0800</pubDate>
+                
+                    <author>s0958334772@gmail.com (Rain Wu)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://rainrainwu.github.io/"
-title = "Rain's Blog"
+title = "Soft Engineer"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)

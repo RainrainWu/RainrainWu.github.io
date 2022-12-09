@@ -1,7 +1,7 @@
 ---
 title: "Applying Managerial Leverage to Software Engineering Teams"
 date: 2022-06-26T16:12:37+08:00
-draft: true
+draft: false
 ---
 
 Influencing organizations and products is always a popular topic in everyone's daily workplace and career, especially in a large-scale firm or a complicated business.

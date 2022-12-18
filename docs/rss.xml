@@ -7,10 +7,10 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Rain&#39;s Blog</title>
+        <title>Soft Engineer</title>
         <link>https://rainrainwu.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.101.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.108.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,22 +23,23 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 25 Jun 2022 22:29:51 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 00:00:36 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
         
         
             <item>
-                <title>Initial Post</title>
-                <link>https://rainrainwu.github.io/posts/hello-world/</link>
-                <guid isPermaLink="true">https://rainrainwu.github.io/posts/hello-world/</guid>
-                <pubDate>Sat, 25 Jun 2022 21:47:54 &#43;0800</pubDate>
+                <title>除了 STAR Method 以外，在技術面試中我們需要顧慮的其他面向</title>
+                <link>https://rainrainwu.github.io/posts/problem_insight_challenge_impact_framework/</link>
+                <guid isPermaLink="true">https://rainrainwu.github.io/posts/problem_insight_challenge_impact_framework/</guid>
+                <pubDate>Wed, 07 Dec 2022 14:08:10 &#43;0800</pubDate>
                 
                     <author>s0958334772@gmail.com (Rain Wu)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description></description>
+                <description>&lt;blockquote&gt;
+&lt;p&gt;相信有認真準備過面試的讀者們都對「STAR Method」有所耳聞，在面試過程中的實戰肯定也不少，數十次經驗累積出了許多的心得。今天筆者就來談談自己在面試時採用 STAR Method 的一些體悟，以及針對實戰上覺得不方便的面向採取的應對策略。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
                 
                 
                 
@@ -46,7 +47,23 @@
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/categories/interview/">interview</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/tags/interview/">interview</category>
+                                
+                            
                         
                     
                 

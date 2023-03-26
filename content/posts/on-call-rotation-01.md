@@ -4,53 +4,54 @@ date: 2023-03-19T15:29:23+08:00
 draft: false
 ---
 
-In many business models today, the stability of products or services is an indispensable part, and even the key to determining customer retention and company revenue.
+Today, in many business models, product or service stability is an essential element and often the key factor in determining customer retention and company revenue.
 
-On Call Rotation is a widely used and proven practice, and it is also one of the main reasons for destroying Work Life Balance. At first glance, it seems like a decision of necessity, but there are still many details that can be noticed, and these are often the traces left by cultural differences.
+On-call rotation is a widely used and proven practice, but it is also a major contributor to the erosion of work-life balance. While it may seem like a necessary decision, there are many details that should be considered, as cultural differences can often leave a lasting impact.
 
-This series of articles will talk about a few interesting topics. These are not only indicators used by the author to evaluate the engineering culture of the other team during the interview, but also to promote progress in each team after having a greater influence in the future career. 
+This series of articles will cover several interesting topics. These topics are not only indicators used by myself to evaluate the engineering culture of other teams during interviews, but also ways to drive progress within each team when I have greater impact in future careers.
 
 <!--more-->
 
 ---
 
-# How companies view On Call Rotation
+# How companies Treat On Call Rotation
 
-The position taken by the management on an issue can be said to be the starting point of everything, which most likely determines how many resources will be allocated and the degree of humanization of the system and process.
+The management's stance on an issue can be considered the starting point for everything. It determines the allocation of resources and the level of humanization in the system and processes.
 
-Of course, software products cannot be perfect, and accidents will definitely happen after going online, but this does not mean that it can be done once and for all just to arrange engineers to stand guard. Turning a blind eye to problems after establishing an On Call system is definitely the worst strategy.
+While software products cannot be perfect and accidents may occur after going online, this does not mean that having engineers on-call is a one-time solution. Turning a blind eye to problems after implementing an on-call system is the worst strategy.
 
-However, the position and stability are too abstract, and it is difficult to make progress when raised within the organization, and the other party may whitewash such sensitive issues during the interview. Below, the author provides a few specific issues for reference.
+However, these are abstract concepts that can be challenging to make progress on when raised within an organization. Additionally, the other party may whitewash such sensitive issues during an interview. To provide more concrete examples, I have outlined a few specific issues below for reference.
 
 ## Supporting measures such as shift scheduling mechanism, SOP, accident classification, etc.
 
-These various supporting measures exist to make On Call Rotation more efficient and more humane. The author experienced a huge difference in the early career of whether there are supporting measures or not, and has since attached great importance to this part of the strategy.
+These various supporting measures exist to make on-call rotations more efficient and humane. I have personally experienced a significant difference early in their career based on the presence of such measures, and has since placed great importance on this aspect of the culture.
 
-For example, everyone has plans for national holidays and no one is willing to On Call, whether there is a maintenance SOP document to follow, whether an accident needs to be dealt with immediately, etc. These are quite specific issues that have a significant impact on daily work.
+For example, when national holidays is coming and no one is willing to be on-call, there are specific issues to consider such as whether there is a maintenance SOP document to follow or if an accident requires immediate attention. These factors have a significant impact on daily work.
 
-From these measures, it can be seen whether the company is willing to continue to invest resources to relieve the pressure of the frontline personnel, and to minimize the frequency of disturbing employees during non-working hours.
+These measures reveal whether a company is willing to invest resources to alleviate the pressure on frontline personnel and minimize the frequency of disrupting employees during non-working hours.
 
 ## Trying to prevent the same problem from happening again and again.
 
-No one wants to be forced to return to work after get off work. If an accident happened today and someone's life was affected, should efforts be made to prevent it from happening again?
+No one wants to be called back to work during non-working hours. However, if an incident occurs that affects someone's life, efforts should be made to prevent it from happening again in the future.
 
-Although not all problems can be solved fundamentally, most of them can be reduced through some techniques, such as automatic retry when encountering errors when sending network requests, importing new technologies that can fail over, and so on.
+While not all problems can be fundamentally solved, many can be mitigated through techniques such as automatic retry when encountering errors in network requests or implementing new technologies that allow for failover.
 
-If a large number of problems are recurring without mitigation, which likely means that On Call is being used as a long-term solution rather than a short-term emergency measure, then the pressure on the team can be expected to continue to increase.
+If a large number of problems continue to occur without mitigation, it may indicate that On Call is being used as a long-term solution rather than a short-term emergency measure. This can lead to increased pressure on the team.
 
 ## Willingness to compensate those affected
 
-Compensation means acknowledging the disruption On Call has had on an employee's life and being willing to communicate constructively. Compared with organizations that believe that engineers should be responsible for the normal operation of the system, having corresponding compensation rules is a very positive signal.
+Compensation means recognizing the impact on an employee's life caused by On Call responsibilities and being willing to communicate constructively. Having corresponding compensation rules is a positive signal, especially when compared to organizations that believe engineers should solely be responsible for the normal operation of the system.
 
-The most common ones are compensatory time off and overtime pay, each with its own advantages and disadvantages depending on the team and individual circumstances. For example, it may be difficult to request compensatory leave in a short period of time when the workload is heavy, and overtime pay is very disadvantageous for employees with low basic salaries, and the relatively low overtime pay often leads to situations where the normal limit exceeds the legal limit.
+The most common compensation methods are compensatory time off and overtime pay, each with its own advantages and disadvantages depending on the team and individual circumstances.
 
-Clarifying the ambiguities or exceptions to the rules can help to obtain more practical information, and can also reduce information gaps and align mutual expectations within the organization.
+For instance, requesting compensatory leave in a short period of time when the workload is heavy can be difficult, and overtime pay is not advantageous for employees with low basic salaries. The relatively low overtime pay can lead to situations where the normal limit exceeds the legal limit.
+
+Clarifying ambiguities or exceptions to the rules can help to obtain more practical information, reduce information gaps, and align mutual expectations within the organization.
 
 ---
 
-This time, through some specific questions about On Call Rotation, we will discuss the organizational culture they reflect, as a reference for evaluating the new team culture or promoting improvement in the current organization.
+This time, we have discussed how the organizational culture reflected in On Call Rotation through some specific questions. This can serve as a reference for evaluating the culture of a new team or promoting improvements in the current organization.
 
+While many companies may not be able to provide a more humane On Call system due to limited resources or the nature of their product, readers are encouraged to think about how to have a constructive discussion after raising concerns. After all, there should always be someone who fights for the opportunity to bring about change.
 
-Although many companies are still unable to provide a more humane system due to insufficient resources or product nature, etc., readers are still encouraged to think about how to have a constructive discussion after complaining. After all, there must be someone who fights for a chance to change .
-
-The next few articles will take a more pragmatic approach to the day-to-day life of software engineering teams, analyzing the root causes of problems and discussing their harm to the organization.
+The following articles will take a pragmatic approach to the daily life of software engineering teams. They will analyze the root causes of problems and discuss the harm they can cause to an organization.

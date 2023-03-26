@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-12-19T00:00:36&#43;08:00</updated>
+    <updated>2023-03-26T13:30:17&#43;08:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -15,21 +15,21 @@
                 <email>s0958334772@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
         <entry>
-            <title type="text">除了 STAR Method 以外，在技術面試中我們需要顧慮的其他面向</title>
-            <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/problem_insight_challenge_impact_framework/" />
-            <id>https://rainrainwu.github.io/posts/problem_insight_challenge_impact_framework/</id>
-            <updated>2022-12-08T10:55:43&#43;08:00</updated>
-            <published>2022-12-07T14:08:10&#43;08:00</published>
+            <title type="text">A Necessary Evil : On Call Rotation (I)</title>
+            <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/on-call-rotation-01/" />
+            <id>https://rainrainwu.github.io/posts/on-call-rotation-01/</id>
+            <updated>2023-03-26T13:30:11&#43;08:00</updated>
+            <published>2023-03-19T15:29:23&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>
                     <uri>https://github.com/RainrainWu/</uri>
                     <email>s0958334772@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;blockquote&gt;
-&lt;p&gt;相信有認真準備過面試的讀者們都對「STAR Method」有所耳聞，在面試過程中的實戰肯定也不少，數十次經驗累積出了許多的心得。今天筆者就來談談自己在面試時採用 STAR Method 的一些體悟，以及針對實戰上覺得不方便的面向採取的應對策略。&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Today, in many business models, product or service stability is an essential element and often the key factor in determining customer retention and company revenue.&lt;/p&gt;
+&lt;p&gt;On-call rotation is a widely used and proven practice, but it is also a major contributor to the erosion of work-life balance. While it may seem like a necessary decision, there are many details that should be considered, as cultural differences can often leave a lasting impact.&lt;/p&gt;
+&lt;p&gt;This series of articles will cover several interesting topics. These topics are not only indicators used by myself to evaluate the engineering culture of other teams during interviews, but also ways to drive progress within each team when I have greater impact in future careers.&lt;/p&gt;</summary>
             
             
             
@@ -37,23 +37,7 @@
             
                 
                     
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/categories/interview/" term="interview" label="interview" />
-                            
-                        
-                    
                 
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/interview/" term="interview" label="interview" />
-                            
-                        
                     
                 
             

@@ -10,7 +10,7 @@
         <title>Soft Engineer</title>
         <link>https://rainrainwu.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.108.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.111.3 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,23 +23,23 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 19 Dec 2022 00:00:36 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 13:30:17 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
         
         
             <item>
-                <title>除了 STAR Method 以外，在技術面試中我們需要顧慮的其他面向</title>
-                <link>https://rainrainwu.github.io/posts/problem_insight_challenge_impact_framework/</link>
-                <guid isPermaLink="true">https://rainrainwu.github.io/posts/problem_insight_challenge_impact_framework/</guid>
-                <pubDate>Wed, 07 Dec 2022 14:08:10 &#43;0800</pubDate>
+                <title>A Necessary Evil : On Call Rotation (I)</title>
+                <link>https://rainrainwu.github.io/posts/on-call-rotation-01/</link>
+                <guid isPermaLink="true">https://rainrainwu.github.io/posts/on-call-rotation-01/</guid>
+                <pubDate>Sun, 19 Mar 2023 15:29:23 &#43;0800</pubDate>
                 
                     <author>s0958334772@gmail.com (Rain Wu)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>&lt;blockquote&gt;
-&lt;p&gt;相信有認真準備過面試的讀者們都對「STAR Method」有所耳聞，在面試過程中的實戰肯定也不少，數十次經驗累積出了許多的心得。今天筆者就來談談自己在面試時採用 STAR Method 的一些體悟，以及針對實戰上覺得不方便的面向採取的應對策略。&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+                <description>&lt;p&gt;Today, in many business models, product or service stability is an essential element and often the key factor in determining customer retention and company revenue.&lt;/p&gt;
+&lt;p&gt;On-call rotation is a widely used and proven practice, but it is also a major contributor to the erosion of work-life balance. While it may seem like a necessary decision, there are many details that should be considered, as cultural differences can often leave a lasting impact.&lt;/p&gt;
+&lt;p&gt;This series of articles will cover several interesting topics. These topics are not only indicators used by myself to evaluate the engineering culture of other teams during interviews, but also ways to drive progress within each team when I have greater impact in future careers.&lt;/p&gt;</description>
                 
                 
                 
@@ -47,23 +47,7 @@
                 
                     
                         
-                            
-                                
-                                
-                                
-                                    <category domain="https://rainrainwu.github.io/categories/interview/">interview</category>
-                                
-                            
-                        
                     
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://rainrainwu.github.io/tags/interview/">interview</category>
-                                
-                            
                         
                     
                 

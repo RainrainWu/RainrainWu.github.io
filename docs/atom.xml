@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-03-26T13:30:17&#43;08:00</updated>
+    <updated>2023-04-30T17:49:57&#43;08:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -17,10 +17,37 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
         <entry>
+            <title type="text">Collaborative Negotiation</title>
+            <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/collaborative_negotiation/" />
+            <id>https://rainrainwu.github.io/posts/collaborative_negotiation/</id>
+            <updated>2023-04-30T17:46:36&#43;08:00</updated>
+            <published>2023-04-30T17:40:21&#43;08:00</published>
+            <author>
+                    <name>Rain Wu</name>
+                    <uri>https://github.com/RainrainWu/</uri>
+                    <email>s0958334772@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;Conflict is an almost inevitable problem in one&amp;rsquo;s career. It often ended up feeling embarrassed or chose to keep the grievances to ourselves when dealing with it the first few time. However, looking back now, those seemingly catastrophic dilemmas did not necessarily end in tragedy.&lt;/p&gt;
+&lt;p&gt;After practicing &amp;lsquo;Collaborative Negotiation&amp;rsquo; in various scenarios such as interviews, project scheduling, and problem clarification over the past few years, I have fugured out an approach for myself that is both emotionally acceptable and delivers mostly favorable outcomes.&lt;/p&gt;
+&lt;p&gt;Here are some relatively specific and practical skills to share:&lt;/p&gt;</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">A Necessary Evil : On Call Rotation (I)</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/on-call-rotation-01/" />
             <id>https://rainrainwu.github.io/posts/on-call-rotation-01/</id>
-            <updated>2023-03-26T13:30:11&#43;08:00</updated>
+            <updated>2023-04-03T15:35:38&#43;08:00</updated>
             <published>2023-03-19T15:29:23&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>

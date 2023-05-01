@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-04-30T17:49:57&#43;08:00</updated>
+    <updated>2023-05-01T15:09:49&#43;08:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Collaborative Negotiation</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/collaborative_negotiation/" />
             <id>https://rainrainwu.github.io/posts/collaborative_negotiation/</id>
-            <updated>2023-04-30T17:46:36&#43;08:00</updated>
+            <updated>2023-05-01T15:09:40&#43;08:00</updated>
             <published>2023-04-30T17:40:21&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>
@@ -37,7 +37,35 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/categories/negotiation/" term="negotiation" label="negotiation" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/tags/career/" term="career" label="career" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/tags/negotiation/" term="negotiation" label="negotiation" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/tags/team/" term="team" label="team" />
+                            
+                        
                     
                 
             
@@ -47,7 +75,7 @@
             <title type="text">A Necessary Evil : On Call Rotation (I)</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/on-call-rotation-01/" />
             <id>https://rainrainwu.github.io/posts/on-call-rotation-01/</id>
-            <updated>2023-04-03T15:35:38&#43;08:00</updated>
+            <updated>2023-05-01T15:09:29&#43;08:00</updated>
             <published>2023-03-19T15:29:23&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>
@@ -64,7 +92,35 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/categories/engineering/" term="engineering" label="engineering" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/tags/engineering/" term="engineering" label="engineering" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/tags/product/" term="product" label="product" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/tags/team/" term="team" label="team" />
+                            
+                        
                     
                 
             

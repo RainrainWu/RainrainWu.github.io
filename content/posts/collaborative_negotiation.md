@@ -2,6 +2,8 @@
 title: "Collaborative Negotiation"
 date: 2023-04-30T17:40:21+08:00
 draft: false
+categories: ["negotiation"]
+tags: ["career", "negotiation", "team"]
 ---
 
 Conflict is an almost inevitable problem in one's career. It often ended up feeling embarrassed or chose to keep the grievances to ourselves when dealing with it the first few time. However, looking back now, those seemingly catastrophic dilemmas did not necessarily end in tragedy.

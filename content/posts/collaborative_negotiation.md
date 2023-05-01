@@ -14,7 +14,7 @@ Here are some relatively specific and practical skills to share:
 
 <!--more-->
 
-1. Rather than directly opposing issues, focus on and gradually expand areas of common ground or consensus.
+## Rather than directly opposing issues, focus on and gradually expand areas of common ground or consensus
 
 While it is natural to invest energy in issues that one cares about, it can be challenging to make progress when directly opposing the other party. In situations where obstacles seem insurmountable, considering alternative routes can also be an option.
 
@@ -22,7 +22,7 @@ For instance, when discussing a project with a tight schedule, proposing a delay
 
 Based on this unspoken agreement, the focus can be shifted to other aspects such as delivery quality or scale instead of just the schedule.
 
-2. Raise the level of discussion by continuously tracing back to the root of the problem.
+## Raise the level of discussion by continuously tracing back to the root of the problem
 
 Negotiations that are difficult to progress may be due to strict constraints within the framework. For example, the conversation can become stuck in a tug of war over the specific number after being asked about the current or expected basic salary.
 
@@ -34,7 +34,7 @@ What other action can be took to make the recruitment successful, considering th
 
 By elevating the discussion and reframing the problem, there may be opportunities to discover new possibilities for collaboration.
 
-3. Clarify the goals and limitations of both parties and collaborate to find a solution.
+## Clarify the goals and limitations of both parties and collaborate to find a solution
 
 Breaking the deadlock can also be achieved by sincerely asking the other party about their current considerations or limitations. This can help establish a shared perspective and clarify the goals of both parties. By engaging in candid communication, you can work together towards finding a mutually beneficial solution.
 
@@ -44,7 +44,7 @@ The inclination to withhold information is primarily a matter of perception, but
 
 Untangling the underlying logic of restrictions during negotiations and searching for details that provide a turning point or a reason for making an exception can be worthwhile and may lead to finding a solution that was not initially apparent.
 
-4. Invite the other side to participate in "Collaborative Negotiation"
+## Invite the other side to participate in "Collaborative Negotiation"
 
 I personally think that one of the core concepts of "cooperative negotiation" is to share information. If both parties are willing to invest, it can save a lot of mental costs of being suspicious, and there is a considerable improvement in the efficiency of progress.
 

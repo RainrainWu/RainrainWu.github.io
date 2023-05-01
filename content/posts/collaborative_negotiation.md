@@ -14,9 +14,9 @@ Here are some relatively specific and practical skills to share:
 
 <!--more-->
 
-## Rather than directly opposing issues, focus on and gradually expand areas of common ground or consensus
+## Rather than directly opposing issues, focus on and gradually expand areas of common ground
 
-While it is natural to invest energy in issues that one cares about, it can be challenging to make progress when directly opposing the other party. In situations where obstacles seem insurmountable, considering alternative routes can also be an option.
+While it is natural to invest energy in issues that one cares about, it can be challenging to make progress when directly opposing the other side. In situations where obstacles seem insurmountable, considering alternative routes can also be an option.
 
 For instance, when discussing a project with a tight schedule, proposing a delay in the delivery time can encounter great resistance. However, there might be a shared understanding that the situation must be mitigated on time.
 
@@ -34,9 +34,9 @@ What other action can be took to make the recruitment successful, considering th
 
 By elevating the discussion and reframing the problem, there may be opportunities to discover new possibilities for collaboration.
 
-## Clarify the goals and limitations of both parties and collaborate to find a solution
+## Clarify the goals and limitations of both sides and collaborate to find a solution
 
-Breaking the deadlock can also be achieved by sincerely asking the other party about their current considerations or limitations. This can help establish a shared perspective and clarify the goals of both parties. By engaging in candid communication, you can work together towards finding a mutually beneficial solution.
+Breaking the deadlock can also be achieved by sincerely asking the other side about their current considerations or limitations. This can help establish a shared perspective and clarify the goals of both sides. By engaging in candid communication, you can work together towards finding a mutually beneficial solution.
 
 Most of the time, nothing will be changed whether we choose to be transparent or withhold information. However, a desirable outcome can be achieved by exchanging ideas and arriving at a feasible solution.
 

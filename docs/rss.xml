@@ -23,10 +23,62 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 01 May 2023 16:23:24 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 21:18:55 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Hidden Risk of Depedencies</title>
+                <link>https://rainrainwu.github.io/posts/reuse_and_dependency/</link>
+                <guid isPermaLink="true">https://rainrainwu.github.io/posts/reuse_and_dependency/</guid>
+                <pubDate>Sun, 07 May 2023 16:19:25 &#43;0800</pubDate>
+                
+                    <author>s0958334772@gmail.com (Rain Wu)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>&lt;p&gt;Rapidly building new functionalities by utilizing existing components has become a common practice in software engineering, especially for practitioners of microservices architecture.&lt;/p&gt;
+&lt;p&gt;However, the interdependence between components is often underestimated, leading to higher-than-expected maintenance costs in the future.&lt;/p&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/categories/engineering/">engineering</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/tags/product/">product</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/tags/negotiation/">negotiation</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/tags/management/">management</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Collaborative Negotiation</title>

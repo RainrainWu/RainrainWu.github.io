@@ -1,7 +1,7 @@
 ---
 title: "Hidden Risk of Depedencies"
 date: 2023-05-07T16:19:25+08:00
-draft: false
+draft: true
 categories: ["engineering"]
 tags: ["product", "negotiation", "management"]
 ---

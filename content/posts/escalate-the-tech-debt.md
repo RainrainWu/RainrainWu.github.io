@@ -1,7 +1,7 @@
 ---
 title: "Escalating the Technical Debt"
 date: 2023-05-07T16:19:25+08:00
-draft: true
+draft: false
 categories: ["engineering"]
 tags: ["engineering", "management"]
 ---

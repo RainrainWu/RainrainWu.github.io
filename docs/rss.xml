@@ -10,7 +10,7 @@
         <title>Soft Engineer</title>
         <link>https://rainrainwu.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.111.3 https://gohugo.io/</generator>
+        <generator>Hugo 0.117.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,22 +23,22 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 10 May 2023 22:39:31 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 13:04:58 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
         
         
             <item>
-                <title>Hidden Risk of Depedencies</title>
-                <link>https://rainrainwu.github.io/posts/reuse_and_dependency/</link>
-                <guid isPermaLink="true">https://rainrainwu.github.io/posts/reuse_and_dependency/</guid>
+                <title>Escalating the Technical Debt</title>
+                <link>https://rainrainwu.github.io/posts/escalate-the-tech-debt/</link>
+                <guid isPermaLink="true">https://rainrainwu.github.io/posts/escalate-the-tech-debt/</guid>
                 <pubDate>Sun, 07 May 2023 16:19:25 &#43;0800</pubDate>
                 
                     <author>s0958334772@gmail.com (Rain Wu)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>&lt;p&gt;Rapidly building new functionalities by utilizing existing components has become a common practice in software engineering, especially for practitioners of microservices architecture.&lt;/p&gt;
-&lt;p&gt;However, the interdependence between components is often underestimated, leading to higher-than-expected maintenance costs in the future.&lt;/p&gt;</description>
+                <description>Tech debt can be considered one of the most significant cognitive gaps between eng roles and others within software companies, and it often becomes a major obstacle in project communication and execution.
+One major reason for the difficulty in reaching consensus among different roles is its abstract nature.</description>
                 
                 
                 
@@ -60,13 +60,7 @@
                                 
                                 
                                 
-                                    <category domain="https://rainrainwu.github.io/tags/product/">product</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://rainrainwu.github.io/tags/negotiation/">negotiation</category>
+                                    <category domain="https://rainrainwu.github.io/tags/engineering/">engineering</category>
                                 
                             
                                 

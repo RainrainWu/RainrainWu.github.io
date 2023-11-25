@@ -2,61 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rainrainwu.github.io/tags/career/</loc>
-    <lastmod>2023-09-07T22:56:50+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/categories/career/</loc>
-    <lastmod>2023-09-07T22:56:50+08:00</lastmod>
-  </url><url>
     <loc>https://rainrainwu.github.io/categories/</loc>
-    <lastmod>2023-09-07T22:56:50+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/tags/life/</loc>
-    <lastmod>2023-09-07T22:56:50+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/posts/</loc>
-    <lastmod>2023-09-07T22:56:50+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/</loc>
-    <lastmod>2023-09-07T23:25:18+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/tags/</loc>
-    <lastmod>2023-09-07T22:56:50+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/posts/dealing_with_job_burnout/</loc>
-    <lastmod>2023-09-07T22:56:50+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/tags/engineering/</loc>
-    <lastmod>2023-08-06T17:18:31+08:00</lastmod>
+    <lastmod>2023-11-25T16:15:43+08:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/categories/engineering/</loc>
-    <lastmod>2023-08-06T17:18:31+08:00</lastmod>
+    <lastmod>2023-11-25T16:15:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/posts/</loc>
+    <lastmod>2023-11-25T16:15:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/</loc>
+    <lastmod>2023-11-25T16:15:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/categories/team/</loc>
+    <lastmod>2023-11-25T16:15:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/posts/bridging_the_knowledge_gap/</loc>
+    <lastmod>2023-11-25T16:15:43+08:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/categories/career/</loc>
+    <lastmod>2023-11-25T16:15:16+08:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/posts/dealing_with_job_burnout/</loc>
+    <lastmod>2023-11-25T16:15:16+08:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/posts/escalate-the-tech-debt/</loc>
-    <lastmod>2023-08-06T17:18:31+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/tags/management/</loc>
-    <lastmod>2023-08-06T17:18:31+08:00</lastmod>
+    <lastmod>2023-11-25T16:15:24+08:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/posts/collaborative_negotiation/</loc>
-    <lastmod>2023-05-01T16:22:53+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/tags/negotiation/</loc>
-    <lastmod>2023-05-01T16:22:53+08:00</lastmod>
+    <lastmod>2023-11-25T16:15:07+08:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/categories/negotiation/</loc>
-    <lastmod>2023-05-01T16:22:53+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/tags/team/</loc>
-    <lastmod>2023-05-01T16:22:53+08:00</lastmod>
+    <lastmod>2023-11-25T16:15:07+08:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/posts/on-call-rotation-01/</loc>
-    <lastmod>2023-05-01T15:09:29+08:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/tags/product/</loc>
-    <lastmod>2023-05-01T15:09:29+08:00</lastmod>
+    <lastmod>2023-11-25T16:15:31+08:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/about/</loc>
     <lastmod>2023-09-07T23:25:18+08:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/tags/</loc>
   </url>
 </urlset>

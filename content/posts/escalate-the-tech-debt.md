@@ -3,7 +3,7 @@ title: "Escalating the Technical Debt"
 date: 2023-05-07T16:19:25+08:00
 draft: false
 categories: ["engineering"]
-tags: ["engineering", "management"]
+tags: []
 ---
 
 Tech debt can be considered one of the most significant cognitive gaps between eng roles and others within software companies, and it often becomes a major obstacle in project communication and execution.

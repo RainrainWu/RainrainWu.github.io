@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-09-07T23:25:24&#43;08:00</updated>
+    <updated>2023-11-25T16:15:45&#43;08:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -15,12 +15,56 @@
                 <email>s0958334772@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.117.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.119.0">Hugo</generator>
+        <entry>
+            <title type="text">軟體工程團隊的知識落差</title>
+            <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/bridging_the_knowledge_gap/" />
+            <id>https://rainrainwu.github.io/posts/bridging_the_knowledge_gap/</id>
+            <updated>2023-11-25T16:15:43&#43;08:00</updated>
+            <published>2023-11-25T14:36:15&#43;08:00</published>
+            <author>
+                    <name>Rain Wu</name>
+                    <uri>https://github.com/RainrainWu/</uri>
+                    <email>s0958334772@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">在如今專業化分工逐漸成熟的軟體業中，編制與招募依照職能劃分已是司空見慣，而某些團隊中可能為了消化較多樣的業務，也有培養成員成為不同領域專家 (Domain Expert) 的文化。能夠盡可能提高研發角色的工作內容的同質性，提高效率的同時有助於專業累積固然是好事，但同時也會讓知識落差的問題更加明顯。
+合作中實際上會阻礙進度的有八成以上並不是些演算法、Linux 指令、package 用法等等，上網查能查到或是看同事的 source code 就能懂的東西，而是像 payload 欄位意義、magic number、有等於沒有的 error message 之類的，原作者不解釋我還真通靈不出來的情況。
+這也讓我對於知識落差造成的困擾有很深的體悟，間接影響我後續成為團隊中相對願意主動改善 README，也堅持讓所有設計符合 best practice 的角色。
+隨著待過的團隊變多，我個人大致把企業文化在這些問題上的表現分布在光譜上，一端是把責任放在「知識的需求者」身上，另一端則是期望「知識的持有者」負擔更多的責任。長話短說，我個人更為偏好後者的風格。
+在一個由「知識的需求者」承擔更多責任的文化中可能會遇到這些情況：
+README 完全空白，因此不熟的人有疑問可能需要花費數十分鐘至數小時研究 source code 由於不清楚 request body 必要欄位有哪些，只好在測試環境不斷 try and error 數次至數十次，有時候甚至會不小心把系統弄壞 只收到了 400 的 http status 但沒有 error message，只好找維護者幫忙查 log，在對方回覆原因之前完全無法推動進度 在一個由「知識的持有者」承擔更多責任的文化中可能會遇到這些情況：</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/categories/team/" term="team" label="team" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/categories/engineering/" term="engineering" label="engineering" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">職業倦怠應對策略</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/dealing_with_job_burnout/" />
             <id>https://rainrainwu.github.io/posts/dealing_with_job_burnout/</id>
-            <updated>2023-09-07T22:56:50&#43;08:00</updated>
+            <updated>2023-11-25T16:15:16&#43;08:00</updated>
             <published>2023-09-05T13:17:02&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>
@@ -46,20 +90,6 @@
                     
                 
                     
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/career/" term="career" label="career" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/life/" term="life" label="life" />
-                            
-                        
-                    
                 
             
         </entry>
@@ -68,7 +98,7 @@
             <title type="text">Escalating the Technical Debt</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/escalate-the-tech-debt/" />
             <id>https://rainrainwu.github.io/posts/escalate-the-tech-debt/</id>
-            <updated>2023-08-06T17:18:31&#43;08:00</updated>
+            <updated>2023-11-25T16:15:24&#43;08:00</updated>
             <published>2023-05-07T16:19:25&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>
@@ -94,20 +124,6 @@ One major reason for the difficulty in reaching consensus among different roles 
                     
                 
                     
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/engineering/" term="engineering" label="engineering" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/management/" term="management" label="management" />
-                            
-                        
-                    
                 
             
         </entry>
@@ -116,7 +132,7 @@ One major reason for the difficulty in reaching consensus among different roles 
             <title type="text">Collaborative Negotiation</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/collaborative_negotiation/" />
             <id>https://rainrainwu.github.io/posts/collaborative_negotiation/</id>
-            <updated>2023-05-01T16:22:53&#43;08:00</updated>
+            <updated>2023-11-25T16:15:07&#43;08:00</updated>
             <published>2023-04-30T17:40:21&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>
@@ -143,26 +159,6 @@ One major reason for the difficulty in reaching consensus among different roles 
                     
                 
                     
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/career/" term="career" label="career" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/negotiation/" term="negotiation" label="negotiation" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/team/" term="team" label="team" />
-                            
-                        
-                    
                 
             
         </entry>
@@ -171,7 +167,7 @@ One major reason for the difficulty in reaching consensus among different roles 
             <title type="text">A Necessary Evil : On Call Rotation (I)</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/on-call-rotation-01/" />
             <id>https://rainrainwu.github.io/posts/on-call-rotation-01/</id>
-            <updated>2023-05-01T15:09:29&#43;08:00</updated>
+            <updated>2023-11-25T16:15:31&#43;08:00</updated>
             <published>2023-03-19T15:29:23&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>
@@ -197,26 +193,6 @@ One major reason for the difficulty in reaching consensus among different roles 
                         
                     
                 
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/engineering/" term="engineering" label="engineering" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/product/" term="product" label="product" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://rainrainwu.github.io/tags/team/" term="team" label="team" />
-                            
-                        
                     
                 
             

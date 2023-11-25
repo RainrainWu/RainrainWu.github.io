@@ -3,7 +3,7 @@ title: "A Necessary Evil : On Call Rotation (I)"
 date: 2023-03-19T15:29:23+08:00
 draft: false
 categories: ["engineering"]
-tags: ["engineering", "product", "team"]
+tags: []
 ---
 
 Today, in many business models, product or service stability is an essential element and often the key factor in determining customer retention and company revenue.

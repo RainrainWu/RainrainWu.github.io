@@ -3,7 +3,7 @@ title: "Hidden Risk of Depedencies"
 date: 2023-05-07T16:19:25+08:00
 draft: true
 categories: ["engineering"]
-tags: ["product", "negotiation", "management"]
+tags: []
 ---
 
 Rapidly building new functionalities by utilizing existing components has become a common practice in software engineering, especially for practitioners of microservices architecture.

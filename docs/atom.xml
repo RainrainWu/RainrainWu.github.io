@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-11-25T16:18:41&#43;08:00</updated>
+    <updated>2023-11-25T16:25:10&#43;08:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">軟體工程團隊的知識落差</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/bridging_the_knowledge_gap/" />
             <id>https://rainrainwu.github.io/posts/bridging_the_knowledge_gap/</id>
-            <updated>2023-11-25T16:18:35&#43;08:00</updated>
+            <updated>2023-11-25T16:25:06&#43;08:00</updated>
             <published>2023-11-25T14:36:15&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>

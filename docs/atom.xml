@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-11-25T16:15:45&#43;08:00</updated>
+    <updated>2023-11-25T16:18:41&#43;08:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -20,19 +20,14 @@
             <title type="text">軟體工程團隊的知識落差</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/bridging_the_knowledge_gap/" />
             <id>https://rainrainwu.github.io/posts/bridging_the_knowledge_gap/</id>
-            <updated>2023-11-25T16:15:43&#43;08:00</updated>
+            <updated>2023-11-25T16:18:35&#43;08:00</updated>
             <published>2023-11-25T14:36:15&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>
                     <uri>https://github.com/RainrainWu/</uri>
                     <email>s0958334772@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">在如今專業化分工逐漸成熟的軟體業中，編制與招募依照職能劃分已是司空見慣，而某些團隊中可能為了消化較多樣的業務，也有培養成員成為不同領域專家 (Domain Expert) 的文化。能夠盡可能提高研發角色的工作內容的同質性，提高效率的同時有助於專業累積固然是好事，但同時也會讓知識落差的問題更加明顯。
-合作中實際上會阻礙進度的有八成以上並不是些演算法、Linux 指令、package 用法等等，上網查能查到或是看同事的 source code 就能懂的東西，而是像 payload 欄位意義、magic number、有等於沒有的 error message 之類的，原作者不解釋我還真通靈不出來的情況。
-這也讓我對於知識落差造成的困擾有很深的體悟，間接影響我後續成為團隊中相對願意主動改善 README，也堅持讓所有設計符合 best practice 的角色。
-隨著待過的團隊變多，我個人大致把企業文化在這些問題上的表現分布在光譜上，一端是把責任放在「知識的需求者」身上，另一端則是期望「知識的持有者」負擔更多的責任。長話短說，我個人更為偏好後者的風格。
-在一個由「知識的需求者」承擔更多責任的文化中可能會遇到這些情況：
-README 完全空白，因此不熟的人有疑問可能需要花費數十分鐘至數小時研究 source code 由於不清楚 request body 必要欄位有哪些，只好在測試環境不斷 try and error 數次至數十次，有時候甚至會不小心把系統弄壞 只收到了 400 的 http status 但沒有 error message，只好找維護者幫忙查 log，在對方回覆原因之前完全無法推動進度 在一個由「知識的持有者」承擔更多責任的文化中可能會遇到這些情況：</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;在如今專業化分工逐漸成熟的軟體業中，編制與招募依照職能劃分已是司空見慣，而某些團隊中可能為了消化較多樣的業務，也有培養成員成為不同領域專家 (Domain Expert) 的文化。能夠盡可能提高研發角色的工作內容的同質性，提高效率的同時有助於專業累積固然是好事，但同時也會讓知識落差的問題更加明顯。&lt;/p&gt;</summary>
             
             
             

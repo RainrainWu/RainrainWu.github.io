@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-03-15T10:51:54&#43;00:00</updated>
+    <updated>2024-03-15T11:17:02&#43;00:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -17,10 +17,10 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.123.8">Hugo</generator>
         <entry>
-            <title type="text">Looking_for_house_to_rent_in_london</title>
+            <title type="text">英國倫敦租屋經驗分享</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/looking_for_house_to_rent_in_london/" />
             <id>https://rainrainwu.github.io/posts/looking_for_house_to_rent_in_london/</id>
-            <updated>2024-03-15T10:51:53&#43;00:00</updated>
+            <updated>2024-03-15T11:16:50&#43;00:00</updated>
             <published>2023-11-25T16:26:53&#43;08:00</published>
             <author>
                     <name>Rain Wu</name>

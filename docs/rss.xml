@@ -10,7 +10,7 @@
         <title>Soft Engineer</title>
         <link>https://rainrainwu.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.119.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.123.8 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 25 Nov 2023 16:25:10 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 00:11:06 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
         
@@ -49,13 +49,13 @@
                                 
                                 
                                 
-                                    <category domain="https://rainrainwu.github.io/categories/team/">team</category>
+                                    <category domain="https://rainrainwu.github.io/categories/team/">Team</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://rainrainwu.github.io/categories/engineering/">engineering</category>
+                                    <category domain="https://rainrainwu.github.io/categories/engineering/">Engineering</category>
                                 
                             
                         
@@ -87,7 +87,7 @@
                                 
                                 
                                 
-                                    <category domain="https://rainrainwu.github.io/categories/career/">career</category>
+                                    <category domain="https://rainrainwu.github.io/categories/career/">Career</category>
                                 
                             
                         
@@ -106,8 +106,8 @@
                     <author>s0958334772@gmail.com (Rain Wu)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>Tech debt can be considered one of the most significant cognitive gaps between eng roles and others within software companies, and it often becomes a major obstacle in project communication and execution.
-One major reason for the difficulty in reaching consensus among different roles is its abstract nature.</description>
+                <description>&lt;p&gt;Tech debt can be considered one of the most significant cognitive gaps between eng roles and others within software companies, and it often becomes a major obstacle in project communication and execution.&lt;/p&gt;
+&lt;p&gt;One major reason for the difficulty in reaching consensus among different roles is its abstract nature. Therefore, we need clear metrics to attach more concrete meanings to statements like &amp;ldquo;taking too long,&amp;rdquo; &amp;ldquo;difficult to implement,&amp;rdquo; &amp;ldquo;unstable,&amp;rdquo; and so on.&lt;/p&gt;</description>
                 
                 
                 
@@ -119,7 +119,7 @@ One major reason for the difficulty in reaching consensus among different roles 
                                 
                                 
                                 
-                                    <category domain="https://rainrainwu.github.io/categories/engineering/">engineering</category>
+                                    <category domain="https://rainrainwu.github.io/categories/engineering/">Engineering</category>
                                 
                             
                         
@@ -152,7 +152,7 @@ One major reason for the difficulty in reaching consensus among different roles 
                                 
                                 
                                 
-                                    <category domain="https://rainrainwu.github.io/categories/negotiation/">negotiation</category>
+                                    <category domain="https://rainrainwu.github.io/categories/negotiation/">Negotiation</category>
                                 
                             
                         
@@ -185,7 +185,7 @@ One major reason for the difficulty in reaching consensus among different roles 
                                 
                                 
                                 
-                                    <category domain="https://rainrainwu.github.io/categories/engineering/">engineering</category>
+                                    <category domain="https://rainrainwu.github.io/categories/engineering/">Engineering</category>
                                 
                             
                         

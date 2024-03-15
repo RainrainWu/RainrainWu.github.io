@@ -10,6 +10,8 @@ Tech debt can be considered one of the most significant cognitive gaps between e
 
 One major reason for the difficulty in reaching consensus among different roles is its abstract nature. Therefore, we need clear metrics to attach more concrete meanings to statements like "taking too long," "difficult to implement," "unstable," and so on.
 
+<!--more-->
+
 For example, "In the product introduction, stating that data analysis functionality can be completed within 2 hours, but 30% of customers receive reports after more than 4 hours. Additionally, this quarter has seen 10 complaints from key customers, each requiring a senior engineer to spend two days to resolve."
 
 This kind of communication approach can effectively and concretely reflect the severity of the problems.

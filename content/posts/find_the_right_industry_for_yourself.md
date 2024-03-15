@@ -2,8 +2,6 @@
 title: "Find_the_right_industry_for_yourself"
 date: 2024-02-03T16:55:48+08:00
 draft: true
-categories: ["life"]
-tags: []
 ---
 
 ## 猶豫篇

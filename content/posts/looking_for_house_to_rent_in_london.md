@@ -1,7 +1,7 @@
 ---
 title: "Looking_for_house_to_rent_in_london"
 date: 2023-11-25T16:26:53+08:00
-draft: true
+draft: false
 ---
 
 隨筆記錄一下這段時間倫敦租屋找房的各種經歷，體幹上相較於台北困難的多，尤其是面對更大的競爭壓力下不可能在看完所有有興趣的房子後再決定，在一天內就必須以有限的資訊對仲介提出 Offer。

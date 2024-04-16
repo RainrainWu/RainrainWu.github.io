@@ -23,13 +23,13 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 16 Apr 2024 23:21:46 &#43;0100</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 23:27:09 &#43;0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
         
         
             <item>
-                <title>20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage</title>
+                <title>Is an Independent Platform Team a Good Deal at the Early Stage?</title>
                 <link>https://rainrainwu.github.io/posts/20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage/</link>
                 <guid isPermaLink="true">https://rainrainwu.github.io/posts/20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage/</guid>
                 <pubDate>Tue, 16 Apr 2024 23:20:37 &#43;0100</pubDate>
@@ -37,8 +37,8 @@
                     <author>s0958334772@gmail.com (Rain Wu)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                <description>Recently, I&amp;rsquo;ve met some software companies where, even in the very early stages with fewer than 8 in the only backend team, they have opted to separate the functions of infrastructure from the general development.
-This separation has led to the establishment of an SRE/Infra/Platform Team focused on long-term planning.</description>
+                <description>&lt;p&gt;Recently, I&amp;rsquo;ve met some software companies where, even in the very early stages with fewer than 8 in the only backend team, they have opted to separate the functions of infrastructure from the general development.&lt;/p&gt;
+&lt;p&gt;This separation has led to the establishment of an SRE/Infra/Platform Team focused on long-term planning. Despite consisting of only 1 or 2 members, this team operates as an independent entity.&lt;/p&gt;</description>
                 
                 
                 

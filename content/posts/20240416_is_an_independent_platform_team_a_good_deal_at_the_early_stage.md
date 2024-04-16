@@ -1,5 +1,5 @@
 ---
-title: "20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage"
+title: "Is an Independent Platform Team a Good Deal at the Early Stage?"
 date: 2024-04-16T23:20:37+01:00
 draft: false
 categories: ["team", "engineering"]
@@ -8,6 +8,8 @@ categories: ["team", "engineering"]
 Recently, I've met some software companies where, even in the very early stages with fewer than 8 in the only backend team, they have opted to separate the functions of infrastructure from the general development.
 
 This separation has led to the establishment of an SRE/Infra/Platform Team focused on long-term planning. Despite consisting of only 1 or 2 members, this team operates as an independent entity.
+
+<!--more-->
 
 Initially, I found this setup quite intriguing. Could a team of this size benefit from such a structure? However, I quickly observed the advantages brought about by this organizational arrangement.
 

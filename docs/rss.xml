@@ -10,7 +10,7 @@
         <title>Soft Engineer</title>
         <link>https://rainrainwu.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.123.8 https://gohugo.io/</generator>
+        <generator>Hugo 0.124.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,15 +23,53 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Fri, 15 Mar 2024 16:09:12 &#43;0000</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 23:21:46 &#43;0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
         
         
             <item>
+                <title>20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage</title>
+                <link>https://rainrainwu.github.io/posts/20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage/</link>
+                <guid isPermaLink="true">https://rainrainwu.github.io/posts/20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage/</guid>
+                <pubDate>Tue, 16 Apr 2024 23:20:37 &#43;0100</pubDate>
+                
+                    <author>s0958334772@gmail.com (Rain Wu)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Recently, I&amp;rsquo;ve met some software companies where, even in the very early stages with fewer than 8 in the only backend team, they have opted to separate the functions of infrastructure from the general development.
+This separation has led to the establishment of an SRE/Infra/Platform Team focused on long-term planning.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/categories/team/">Team</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/categories/engineering/">Engineering</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
                 <title>英國倫敦租屋經驗分享</title>
-                <link>https://rainrainwu.github.io/posts/rent_a_house_in_london/</link>
-                <guid isPermaLink="true">https://rainrainwu.github.io/posts/rent_a_house_in_london/</guid>
+                <link>https://rainrainwu.github.io/posts/20240315_rent_a_house_in_london/</link>
+                <guid isPermaLink="true">https://rainrainwu.github.io/posts/20240315_rent_a_house_in_london/</guid>
                 <pubDate>Fri, 15 Mar 2024 15:31:30 &#43;0000</pubDate>
                 
                     <author>s0958334772@gmail.com (Rain Wu)</author>

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-03-15T16:09:12&#43;00:00</updated>
+    <updated>2024-04-16T23:21:46&#43;01:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -15,11 +15,51 @@
                 <email>s0958334772@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.123.8">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.124.0">Hugo</generator>
+        <entry>
+            <title type="text">20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage</title>
+            <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage/" />
+            <id>https://rainrainwu.github.io/posts/20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage/</id>
+            <updated>2024-04-16T23:21:30&#43;01:00</updated>
+            <published>2024-04-16T23:20:37&#43;01:00</published>
+            <author>
+                    <name>Rain Wu</name>
+                    <uri>https://github.com/RainrainWu/</uri>
+                    <email>s0958334772@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Recently, I&amp;rsquo;ve met some software companies where, even in the very early stages with fewer than 8 in the only backend team, they have opted to separate the functions of infrastructure from the general development.
+This separation has led to the establishment of an SRE/Infra/Platform Team focused on long-term planning.</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/categories/team/" term="Team" label="Team" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://rainrainwu.github.io/categories/engineering/" term="Engineering" label="Engineering" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">英國倫敦租屋經驗分享</title>
-            <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/rent_a_house_in_london/" />
-            <id>https://rainrainwu.github.io/posts/rent_a_house_in_london/</id>
+            <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/20240315_rent_a_house_in_london/" />
+            <id>https://rainrainwu.github.io/posts/20240315_rent_a_house_in_london/</id>
             <updated>2024-03-15T16:08:56&#43;00:00</updated>
             <published>2024-03-15T15:31:30&#43;00:00</published>
             <author>

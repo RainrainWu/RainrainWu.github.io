@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rainrainwu.github.io/posts/20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage/</loc>
+    <lastmod>2024-04-16T23:21:30+01:00</lastmod>
+  </url><url>
     <loc>https://rainrainwu.github.io/categories/</loc>
-    <lastmod>2024-03-15T16:08:56+00:00</lastmod>
+    <lastmod>2024-04-16T23:21:30+01:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/categories/engineering/</loc>
+    <lastmod>2024-04-16T23:21:30+01:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/posts/</loc>
+    <lastmod>2024-04-16T23:21:30+01:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/</loc>
+    <lastmod>2024-04-16T23:21:30+01:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/categories/team/</loc>
+    <lastmod>2024-04-16T23:21:30+01:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/categories/life/</loc>
     <lastmod>2024-03-15T16:08:56+00:00</lastmod>
   </url><url>
-    <loc>https://rainrainwu.github.io/posts/</loc>
+    <loc>https://rainrainwu.github.io/posts/20240315_rent_a_house_in_london/</loc>
     <lastmod>2024-03-15T16:08:56+00:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/</loc>
-    <lastmod>2024-03-15T16:08:56+00:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/posts/rent_a_house_in_london/</loc>
-    <lastmod>2024-03-15T16:08:56+00:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/categories/engineering/</loc>
-    <lastmod>2024-03-15T00:10:34+00:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/categories/team/</loc>
-    <lastmod>2023-11-25T08:25:06+00:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/posts/bridging_the_knowledge_gap/</loc>
     <lastmod>2023-11-25T08:25:06+00:00</lastmod>

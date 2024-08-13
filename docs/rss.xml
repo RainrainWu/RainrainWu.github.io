@@ -10,7 +10,7 @@
         <title>Soft Engineer</title>
         <link>https://rainrainwu.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.124.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.131.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,10 +23,45 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 16 Apr 2024 23:27:09 &#43;0100</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 00:12:25 &#43;0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://rainrainwu.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Signals Requiring a Dedicated SDET Team</title>
+                <link>https://rainrainwu.github.io/posts/20240810_signals_requiring_a_dedicated_sdet_team/</link>
+                <guid isPermaLink="true">https://rainrainwu.github.io/posts/20240810_signals_requiring_a_dedicated_sdet_team/</guid>
+                <pubDate>Sat, 10 Aug 2024 22:31:16 &#43;0100</pubDate>
+                
+                    <author>s0958334772@gmail.com (Rain Wu)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>&lt;p&gt;It&amp;rsquo;s could be a great timing to establish a dedicated SDET team if the following stories keep occurring in your daily development.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Can Hardly Take Care of Boundaries between Components&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As the team grows, having different product lines and tribes is a fairly reasonable. However, issues can easily arise at the intersections of different functions due to information gaps.&lt;/p&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://rainrainwu.github.io/categories/engineering/">Engineering</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Is an Independent Platform Team a Good Deal at the Early Stage?</title>

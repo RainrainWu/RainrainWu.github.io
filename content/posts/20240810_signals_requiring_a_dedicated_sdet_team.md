@@ -5,7 +5,7 @@ draft: false
 categories: ["engineering"]
 ---
 
-It's could be a great timing to establish a dedicated SDET team if the following stories keep occurring in your daily development. 
+It could be a great timing to establish a dedicated SDET team if the following stories keep occurring in your daily development. 
 
 <!--more-->
 

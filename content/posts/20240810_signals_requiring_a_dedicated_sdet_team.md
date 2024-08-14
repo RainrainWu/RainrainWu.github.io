@@ -7,12 +7,12 @@ categories: ["engineering"]
 
 It's could be a great timing to establish a dedicated SDET team if the following stories keep occurring in your daily development. 
 
+<!--more-->
+
 
 ## Can Hardly Take Care of Boundaries between Components
 
 As the team grows, having different product lines and tribes is a fairly reasonable. However, issues can easily arise at the intersections of different functions due to information gaps.
-
-<!--more-->
 
 Encouraging developers to proactively put eyes on updates from other components is ineffective. This contradicts the rationale behind splitting teams and increase superficial sync-up meetings, which reduces overall capacity.
 

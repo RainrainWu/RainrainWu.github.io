@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rainrainwu.github.io/posts/20250307_uk_house_renting_retro/</loc>
+    <lastmod>2025-03-12T00:02:24+00:00</lastmod>
+  </url><url>
     <loc>https://rainrainwu.github.io/categories/</loc>
-    <lastmod>2024-08-14T13:36:26+01:00</lastmod>
+    <lastmod>2025-03-12T00:02:24+00:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/categories/life/</loc>
+    <lastmod>2025-03-12T00:02:24+00:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/posts/</loc>
+    <lastmod>2025-03-12T00:02:24+00:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/</loc>
+    <lastmod>2025-03-12T00:02:24+00:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/tags/</loc>
+    <lastmod>2025-03-12T00:02:24+00:00</lastmod>
+  </url><url>
+    <loc>https://rainrainwu.github.io/tags/uk/</loc>
+    <lastmod>2025-03-12T00:02:24+00:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/categories/engineering/</loc>
     <lastmod>2024-08-14T13:36:26+01:00</lastmod>
   </url><url>
-    <loc>https://rainrainwu.github.io/posts/</loc>
-    <lastmod>2024-08-14T13:36:26+01:00</lastmod>
-  </url><url>
     <loc>https://rainrainwu.github.io/posts/20240810_signals_requiring_a_dedicated_sdet_team/</loc>
-    <lastmod>2024-08-14T13:36:26+01:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/</loc>
     <lastmod>2024-08-14T13:36:26+01:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/posts/20240416_is_an_independent_platform_team_a_good_deal_at_the_early_stage/</loc>
@@ -22,9 +34,6 @@
   </url><url>
     <loc>https://rainrainwu.github.io/categories/team/</loc>
     <lastmod>2024-04-16T23:27:06+01:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/categories/life/</loc>
-    <lastmod>2024-03-15T16:08:56+00:00</lastmod>
   </url><url>
     <loc>https://rainrainwu.github.io/posts/20240315_rent_a_house_in_london/</loc>
     <lastmod>2024-03-15T16:08:56+00:00</lastmod>
@@ -52,7 +61,5 @@
   </url><url>
     <loc>https://rainrainwu.github.io/about/</loc>
     <lastmod>2023-09-07T16:25:18+01:00</lastmod>
-  </url><url>
-    <loc>https://rainrainwu.github.io/tags/</loc>
   </url>
 </urlset>

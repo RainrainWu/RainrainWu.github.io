@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Soft Engineer</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2025-03-12T23:56:18&#43;00:00</updated>
+    <updated>2025-03-13T23:00:44&#43;00:00</updated>
     <id>https://rainrainwu.github.io/</id>
     <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://rainrainwu.github.io/atom.xml" />
@@ -20,27 +20,14 @@
             <title type="text">20250307_uk_house_renting_retro</title>
             <link rel="alternate" type="text/html" href="https://rainrainwu.github.io/posts/20250307_uk_house_renting_retro/" />
             <id>https://rainrainwu.github.io/posts/20250307_uk_house_renting_retro/</id>
-            <updated>2025-03-12T00:02:24&#43;00:00</updated>
+            <updated>2025-03-13T23:00:41&#43;00:00</updated>
             <published>2025-03-07T11:12:39&#43;01:00</published>
             <author>
                     <name>Rain Wu</name>
                     <uri>https://github.com/RainrainWu/</uri>
                     <email>s0958334772@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">繼一年前第一次在倫敦租房時寫了一篇文章，大致上是沿用台北租屋的經驗，結果發現有許多不適用的情況，所幸最後仍用相對合理的預算租到滿足大部分需求的住處。如今即將住滿一年也安排好搬去新的住處，有許多過去一年來的問題值得回顧一番，整理成實用工具文來分享。
-整體而言 整體而言，我住的挺滋潤的，相對幾次聚會上時有耳聞惡夢般的租屋經驗，我真的是該知足，也值得佩服一番自己的找房能力。
-什麼客製化的不平等合約、莫名其妙被刁難不退押金、租到一半被強行漲租等等問題，都沒有發生在我身上。
-至於為什麼不續租，當然是因為找到更好的，順便也想替換一下居住條件體驗不一樣的環境，畢竟原本住的那區相當現代化，一點也沒有英國風情。
-交通 最初採取的「衛星城鎮」策略運作起來並沒有像在台北一樣順利，雖然緊貼著地鐵確實能達到半小時內從 Zone 4 到 Zone 1 的通勤，不過仍有不少失算。
-首先是台北捷運不常停駛，但倫敦地鐵嚴重誤點我大概每個月都能遇上一次，甚至每次都是我原本視為替代方案的兩條地鐵一起出事。然而改搭公車的話需要轉兩次車才能到市中心，通勤時間直接至少是翻倍，衛星城鎮一時間變得有點像孤島。
-地鐵的通勤費用也是超乎預期，如果在尖峰時段上班的話一天來回就是 8.8 鎊，今年貌似又要漲價。這導致我被迫在離峰時段通勤，時常回到家時都已經接近晚上八點，作息上受到了不少限制。
-總歸而言，倫敦的地鐵並不如亞洲國家那麼親民，交通問題在住宿地點的選擇上應該要佔有更大的比重。
-機能 說機能不好其實也不盡然，主要是附近是足球場之類的活動場館導致商業氣息濃厚，周遭的餐飲全部都是大型連鎖品牌，汰換率極低所以蠻快會吃膩想換口味。
-不過除了超市和餐飲以外的機能相對就弱得多，比如診所、藥局、一些市集或是有娛樂活動的酒吧等等，通常要走去搭個公車通勤快半小時才能到，也許這在衛星城鎮需要居民數量達到一定門檻才會開始發展。
-公設 公設部分可說是開了我的眼界，住在台北時我一直以為電梯是不會壞掉的，就算突然壞了也會在半天內修好，然而現在住的這大樓不只會突襲式停用，還有一次拖了超過兩週才修好。住 13 樓的我那陣子運動量陡增不少，搞得我現在對於沒有兩台電梯的大樓不太敢住四樓以上。
-另外就是倫敦的購物挺依賴網購的，但物流方便程度遠落後於台北。有個 concierge 幫忙處理可說是方便許多，這也是我在下一個住處能體驗看看的，特別是像我這種每天白天都想出門的人，留守在家等物流一整天實在很悶。
-其餘的一些小事雖然有點擾民，比如偶爾會莫名開始叫的火災警報器，但不至於影響我租屋決策就不提細節了。
-這一年住下來其實挺順遂，沒遇上什麼被闖空門或是遇到惡鄰居的棘手問題，自己事前做的研究有了實質的回報十分值得慶幸。秉持著知識與經驗想的精神，希望</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;繼一年前第一次在倫敦租房時寫了一篇文章，大致上是沿用台北租屋的經驗，結果發現有許多不適用的情況，所幸最後仍用相對合理的預算租到滿足大部分需求的住處。如今即將住滿一年也安排好搬去新的住處，有許多過去一年來的問題值得回顧一番，整理成實用工具文來分享。&lt;/p&gt;</summary>
             
             
             
